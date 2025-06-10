@@ -9,7 +9,7 @@ let fontSize = 32;
 let minFontSize = 20;
 let finalFontSize = null;
 let typedLetters = 0;
-let avoidRadius = 100;
+let avoidRadius = 500;
 
 let endTextX = 0;
 let endTextY = 0;
