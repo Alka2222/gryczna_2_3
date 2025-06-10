@@ -6,7 +6,7 @@ let loremWords = [
 
 let words = [];
 let fontSize = 32;
-let minFontSize = 14;
+let minFontSize = 20;
 let finalFontSize = null;
 let typedLetters = 0;
 let avoidRadius = 50;
@@ -140,7 +140,7 @@ function mousePressed() {
       mouseY >= endTextY &&
       mouseY <= endTextY + endTextH
     ) {
-      window.open("https://agatalukasik.github.io/gryczana_4/", "_self");
+      window.open("https://agatalukasik.github.io/gryczana_4/");
     }
   }
 }
