@@ -17,7 +17,7 @@ let endTextW = 0;
 let endTextH = 0;
 
 function setup() {
-  createCanvas(windowWidth, windowHeight);
+  createCanvas(1920, 1080);
   textAlign(LEFT, TOP);
   noSmooth();
   textFont('Arial');
