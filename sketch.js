@@ -140,7 +140,7 @@ function mousePressed() {
       mouseY >= endTextY &&
       mouseY <= endTextY + endTextH
     ) {
-      window.open("https://agatalukasik.github.io/gryczana_4/");
+      window.open("https://agatalukasik.github.io/gryczana_4/", "_self");
     }
   }
 }
